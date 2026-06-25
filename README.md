@@ -2,5 +2,5 @@
 ## git clone "year url"
 ## git commands
 ### git add .
-### git commit -n "any message"
+### git commit -m "any message"
 ### git push
