@@ -1,0 +1,10 @@
+{
+  "name": "frontend-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix talentspark run dev",
+    "build": "npm --prefix talentspark run build",
+    "preview": "npm --prefix talentspark run preview",
+    "install:app": "npm --prefix talentspark install"
+  }
+}
